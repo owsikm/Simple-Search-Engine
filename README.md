@@ -1,5 +1,8 @@
 # Simple-Search-Engine
 Search engine using inverted index.
-https://stepik.org/media/attachments/lesson/210158/demonstration.mp4
-<video src='https://stepik.org/media/attachments/lesson/210158/demonstration.mp4
-' width=180/>
+
+
+
+https://user-images.githubusercontent.com/110354494/215749374-41efe906-4261-457e-bc60-943819689095.mp4
+
+
